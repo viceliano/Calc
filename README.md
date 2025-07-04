@@ -53,9 +53,13 @@ Arquivo gerado automaticamente:
 
 🎯 Objetivo do Projeto
 
-Este projeto reforça conhecimentos essenciais da linguagem C, como entrada e saída de dados com scanf e printf, criação de funções com retorno, uso de estruturas de controle (while, switch), manipulação de arquivos com fopen, fprintf, fclose, além da prática de escrever código limpo, organizado e com propósito funcional.
+Este projeto reforça conhecimentos essenciais da linguagem C, como entrada e saída de dados c/
+scanf e printf, criação de funções com retorno, uso de estruturas de controle (while, switch),
+manipulação de arquivos com fopen, fprintf, fclose, além da prática de escrever código limpo, 
+organizado e com propósito funcional.
 
-Mesmo sendo uma aplicação simples, ela representa domínio das bases da linguagem, foco em clareza de código e preparação para aplicações maiores.
+Mesmo sendo uma aplicação simples, ela representa domínio das bases da linguagem, 
+foco em clareza de código e preparação para aplicações maiores.
 
 👤 Autor
 
